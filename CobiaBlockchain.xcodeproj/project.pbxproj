@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		FA45F8E91F9020190049761C /* rsa.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = rsa.cpp; sourceTree = "<group>"; };
 		FAD12E581F79A39900ABEAEA /* CobiaBlockchain */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CobiaBlockchain; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAD12E5B1F79A39900ABEAEA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -38,6 +39,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FA45F8E81F901FF20049761C /* Include */ = {
+			isa = PBXGroup;
+			children = (
+				FA45F8E91F9020190049761C /* rsa.cpp */,
+			);
+			path = Include;
+			sourceTree = "<group>";
+		};
 		FAD12E4F1F79A39900ABEAEA = {
 			isa = PBXGroup;
 			children = (
@@ -57,6 +66,7 @@
 		FAD12E5A1F79A39900ABEAEA /* CobiaBlockchain */ = {
 			isa = PBXGroup;
 			children = (
+				FA45F8E81F901FF20049761C /* Include */,
 				FAD12E5B1F79A39900ABEAEA /* main.cpp */,
 			);
 			path = CobiaBlockchain;
