@@ -4,7 +4,7 @@ Blockchain solution for enterprise clients
 
 ## What is it?
 
-Cobia Blockchain is an enterprise orientated solution aimed a businesses.
+Cobia Blockchain is an enterprise orientated solution aimed at businesses.
 
 ### What can it do?
 
